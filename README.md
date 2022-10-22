@@ -1,4 +1,5 @@
 # public Тухватулин Ахат Александрович 142 группа
+  ![дурак онлайн](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XM3kpW0LV4y-ta6UsCEOWiWsEI00xsKWoJK6MA8p2kSydZgh0wGIa5iaXwANvf7W4K8&usqp=CAU)
   bebra.ipynb - проба Juputer  
   hemming.ipynb - Хемминг которого я не понял  
   n-я таблица умнож.py - n-я таблица умножения на Phyton  
@@ -8,4 +9,3 @@
   перевод+таблица умнж+морзе.xlsx - перевод систем счисления, таблица умножения, Морзе в Excel  
   IMG_20221013_101444.jpg - результат нейросети   
   345.py - решение логичской задачи на Phyton  
-  ![дурак онлайн](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XM3kpW0LV4y-ta6UsCEOWiWsEI00xsKWoJK6MA8p2kSydZgh0wGIa5iaXwANvf7W4K8&usqp=CAU)  
