@@ -11,3 +11,4 @@
   345.py - решение логичской задачи на Phyton  
   Безымянный.png - Automatic Paint  
   $$(A \wedge B) \vee C=(A \vee C) \wedge (B \vee C)$$
+  ![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114632235/198816774-9511ae78-b37f-49c5-bdf8-032441480c03.png)
