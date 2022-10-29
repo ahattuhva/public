@@ -10,3 +10,4 @@
   IMG_20221013_101444.jpg - результат нейросети   
   345.py - решение логичской задачи на Phyton  
   Безымянный.png - Automatic Paint  
+  $$(A \wedge B) \vee C=(A \vee C) \wedge (B \vee C)$$
