@@ -21,3 +21,5 @@
   $$\\ a_{ц}=\frac{v^{q}}{R}$$  
   
   $$\\ (a+b)^{2}=a^{2}+2ab+b^{2}$$ 
+  
+  ![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114632235/200984859-f3ad391a-1180-4ea4-9a11-50cf497001b5.png)
