@@ -13,6 +13,7 @@
   Закон дистрибутивности (5)  
   $$(A \wedge B) \vee C=(A \vee C) \wedge (B \vee C)$$  
   ![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114632235/198816774-9511ae78-b37f-49c5-bdf8-032441480c03.png)  
-  $$\overline{E}^{2}_1=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{2}}_{1}+\beta^{\frac{2}{3}}$$    
+  $$\overline{E}^{2}_1=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{2}}_{1}+\beta^{\frac{2}{3}}$$  
   $$\\ a_{ц}=\frac{v^{q}}{R}$$  
-  $$\\ (a+b)^{2}=a^{2}+2ab+b^{2}$$  
+  $$\\ (a+b)^{2}=a^{2}+2ab+b^{2}$$ 
+  ![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114632235/200983529-fb2329ba-a128-4a65-8424-6816f5ca0e9c.png)
