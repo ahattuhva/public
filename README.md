@@ -23,9 +23,10 @@
   $$\\ (a+b)^{2}=a^{2}+2ab+b^{2}$$ 
   
   ![lagrida_latex_editor (4)](https://user-images.githubusercontent.com/114632235/200984859-f3ad391a-1180-4ea4-9a11-50cf497001b5.png)
-flowchart LR
-
-  ```mearmaid A[Hard] -->|Text| B(Round)
-  B --> C{Decision}
-  C -->|One| D[Result 1]
-  C -->|Two| E[Result 2]```
+  ``` mermaid 
+  flowchart LR
+  A[10 классс] -->|аттестация| B(11 класс)
+  B --> C{ЕГЭ ПО БОРЬБА}
+  C -->|300+| D[ УЛЬТРАМЕГАСУПЕРДУПЕРХОРОШ]
+  C -->|<300| E[ПЛОХ]
+  ```
