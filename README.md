@@ -1,4 +1,4 @@
-# public Тухватулин Ахат Александрович 142 группа
+# Тухватулин Ахат Александрович 142 группа
   ![дурак онлайн](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XM3kpW0LV4y-ta6UsCEOWiWsEI00xsKWoJK6MA8p2kSydZgh0wGIa5iaXwANvf7W4K8&usqp=CAU)  
   bebra.ipynb - проба Juputer  
   hemming.ipynb - Хемминг которого я не понял  
