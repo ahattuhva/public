@@ -33,3 +33,7 @@
   C -->|выгнали с экзамена| F[пересдача]
   F --> C
   ```
+
+  |  | README |  
+  | ------ | ------ |  
+  | Dropbox | [plugins/dropbox/README.md][PlDb] |  
