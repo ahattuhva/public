@@ -34,6 +34,6 @@
   F --> C
   ```
 
-  |  | README |  
-  | ------ | ------ |  
-  | Dropbox | [plugins/dropbox/README.md][PlDb] |  
+  | # | сделано/не сделано |  
+  | 19 | нет |  
+  | 20 | нет |  
