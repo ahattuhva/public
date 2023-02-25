@@ -10,4 +10,3 @@ with open ('24.txt') as f:
             kmax=max(kmax,k)
         else: k=0
     print(kmax)
-        
