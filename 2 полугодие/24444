@@ -1,0 +1,21 @@
+with open('24-241.txt') as f:
+    s=f.readline()
+    e=s.split('E')
+    for i in e:
+        if i.count('B')>1 and i.count('A')>5:
+            e.index('B')
+            o=e[::-1]
+            o.index('B')
+    print(e.index('B'), o.index('B'))
+
+
+
+
+#s='AABEEEAOAAAAEBOOOOOAAAAABE'                       
+#s.index('B')
+#o=s[::-1]
+#o.index('B')
+#print(s.index('B'), o.index('B'))
+
+        
+    
